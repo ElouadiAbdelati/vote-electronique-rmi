@@ -15,7 +15,7 @@
 
 # Test
 <a name="initserver" ></a>
-  ![plot](./screen/init server.png)
+  ![plot](./screen/initserver.png)
   
   
   <a name="keyPair" ></a>
@@ -28,7 +28,7 @@
   ![plot](./screen/vote.png)
   
   <a name="changeVote" ></a>
-  ![plot](./screen/change election.png)
+  ![plot](./screen/changevote.png)
   
   <a name="getResults" ></a>
   ![plot](./screen/rs.png)
